@@ -1,0 +1,98 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP2",
+                "stepName": "Submit Form: Catalog.action;jsessionid=592E11B4C8A2562F495B70E8D496E2D7",
+                "infFile": "t2.inf",
+                "time": 1708753366840
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Link: Return to Main Menu",
+                "infFile": "t3.inf",
+                "time": 1708753367048
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Image: sm_dogs.gif",
+                "infFile": "t4.inf",
+                "time": 1708753367253
+            },
+            {
+                "stepId": "STEP5",
+                "stepName": "Link: K9-RT-02",
+                "infFile": "t5.inf",
+                "time": 1708753367438
+            },
+            {
+                "stepId": "STEP6",
+                "stepName": "Custom Request: json",
+                "infFile": "t6.inf",
+                "time": 1708753367830
+            },
+            {
+                "stepId": "STEP7",
+                "stepName": "Url: Cart.action",
+                "infFile": "t7.inf",
+                "time": 1708753368022
+            },
+            {
+                "stepId": "STEP8",
+                "stepName": "Submit Form: Cart.action_2",
+                "infFile": "t8.inf",
+                "time": 1708753368338
+            },
+            {
+                "stepId": "STEP9",
+                "stepName": "Link: Return to Main Menu_2",
+                "infFile": "t9.inf",
+                "time": 1708753368507
+            },
+            {
+                "stepId": "STEP10",
+                "stepName": "Submit Form: Catalog.action_2",
+                "infFile": "t10.inf",
+                "time": 1708753368837
+            },
+            {
+                "stepId": "STEP11",
+                "stepName": "Link: Return to Main Menu_3",
+                "infFile": "t11.inf",
+                "time": 1708753369011
+            },
+            {
+                "stepId": "STEP12",
+                "stepName": "Image: sm_cats.gif",
+                "infFile": "t12.inf",
+                "time": 1708753369203
+            },
+            {
+                "stepId": "STEP13",
+                "stepName": "Link: FL-DLH-02",
+                "infFile": "t13.inf",
+                "time": 1708753369393
+            },
+            {
+                "stepId": "STEP14",
+                "stepName": "Link: Add to Cart",
+                "infFile": "t14.inf",
+                "time": 1708753369584
+            },
+            {
+                "stepId": "STEP15",
+                "stepName": "Submit Form: Cart.action_3",
+                "infFile": "t15.inf",
+                "time": 1708753369911
+            },
+            {
+                "stepId": "STEP16",
+                "stepName": "Link: Return to Main Menu_4",
+                "infFile": "t16.inf",
+                "time": 1708753370246
+            }
+        ],
+        "transactions": []
+    }
+]

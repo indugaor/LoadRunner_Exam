@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Administrator\Desktop\LoadRunner\LR Scripts\JPetStoreSlon\JPetStoreSomkeTest
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\administrator\desktop\loadrunner\lr scripts\jpetstoreslon\jpetstoresomketest\\logfile.log
+c:\users\administrator\desktop\loadrunner\lr scripts\jpetstoreslon\jpetstoresomketest\\combined_JPetStoreSomkeTest.c
+c:\users\administrator\desktop\loadrunner\lr scripts\jpetstoreslon\jpetstoresomketest\\pre_cci.c

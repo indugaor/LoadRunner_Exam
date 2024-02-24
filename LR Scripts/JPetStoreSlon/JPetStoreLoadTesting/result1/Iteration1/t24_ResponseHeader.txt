@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+Content-Security-Policy: script-src 'report-sample' 'nonce-l0ydBp8kQj-27GKMm2sClA' 'unsafe-inline' 'strict-dynamic' https: http:;object-src 'none';base-uri 'self';report-uri https://csp.withgoogle.com/csp/clientupdate-aus/1
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Date: Sat, 24 Feb 2024 05:52:45 GMT
+X-Cup-Server-Proof: 3045022007ff6cb2578460d8f81be0c37b57ea2619ab85724b2d286ea10a6bea809dd13a022100ad0fd6d006e021b370dd519f17fa48306b99a034b839e8e702eb14b233323a41:f88c2271df42d29db2b2258e23e93075c135c4357cb9e5c015bd30e184cfd59b
+ETag: W/"3045022007ff6cb2578460d8f81be0c37b57ea2619ab85724b2d286ea10a6bea809dd13a022100ad0fd6d006e021b370dd519f17fa48306b99a034b839e8e702eb14b233323a41:f88c2271df42d29db2b2258e23e93075c135c4357cb9e5c015bd30e184cfd59b"
+Content-Type: application/json; charset=utf-8
+X-Daynum: 6262
+X-Daystart: 78765
+Content-Encoding: gzip
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+Content-Length: 970
+Server: GSE
+

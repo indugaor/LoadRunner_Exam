@@ -1,0 +1,56 @@
+[
+    {
+        "actionName": "vuser_end",
+        "steps": [
+            {
+                "stepId": "STEP17",
+                "stepName": "Url: Catalog.action_2",
+                "infFile": "t17.inf",
+                "time": 1708753305860
+            },
+            {
+                "stepId": "STEP18",
+                "stepName": "Image: sm_birds.gif",
+                "infFile": "t18.inf",
+                "time": 1708753306030
+            },
+            {
+                "stepId": "STEP19",
+                "stepName": "Link: Return to Main Menu",
+                "infFile": "t19.inf",
+                "time": 1708753306237
+            },
+            {
+                "stepId": "STEP20",
+                "stepName": "Image: sm_birds.gif_2",
+                "infFile": "t20.inf",
+                "time": 1708753306406
+            },
+            {
+                "stepId": "STEP21",
+                "stepName": "Link: Return to Main Menu_2",
+                "infFile": "t21.inf",
+                "time": 1708753306578
+            },
+            {
+                "stepId": "STEP22",
+                "stepName": "Image: sm_birds.gif_3",
+                "infFile": "t22.inf",
+                "time": 1708753306749
+            },
+            {
+                "stepId": "STEP23",
+                "stepName": "Link: Return to Main Menu_3",
+                "infFile": "t23.inf",
+                "time": 1708753306921
+            },
+            {
+                "stepId": "STEP24",
+                "stepName": "Custom Request: json",
+                "infFile": "t24.inf",
+                "time": 1708753307272
+            }
+        ],
+        "transactions": []
+    }
+]

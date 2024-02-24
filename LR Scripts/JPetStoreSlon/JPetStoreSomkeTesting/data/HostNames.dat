@@ -1,0 +1,5 @@
+[hosts]
+clientservices.googleapis.com=
+petstore.octoperf.com=
+update.googleapis.com=
+safebrowsing.googleapis.com=

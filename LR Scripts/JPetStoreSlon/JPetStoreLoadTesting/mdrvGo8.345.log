@@ -1,0 +1,216 @@
+Start auto log messages stack - Iteration 2.	[MsgId: MMSG-10545]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(6): lr_think_time: 27.00 seconds.	[MsgId: MMSG-15948]
+Action.c(8): web_submit_form("Catalog.action;jsessionid=592E11B4C8A2562F495B70E8D496E2D7") started  	[MsgId: MMSG-26355]
+Action.c(8): Error -27985: There is no context for HTML-based functions. A previous function may not have used "Mode=HTML" or downloaded only non-HTML page(s), or the context has been reset (e.g., due to a GUI-based function)  	[MsgId: MERR-27985]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 2.	[MsgId: MMSG-10545]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(6): lr_think_time: 27.00 seconds.	[MsgId: MMSG-15948]
+Action.c(8): web_submit_form("Catalog.action;jsessionid=592E11B4C8A2562F495B70E8D496E2D7") started  	[MsgId: MMSG-26355]
+Action.c(8): Error -27985: There is no context for HTML-based functions. A previous function may not have used "Mode=HTML" or downloaded only non-HTML page(s), or the context has been reset (e.g., due to a GUI-based function)  	[MsgId: MERR-27985]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 3.	[MsgId: MMSG-10545]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(6): lr_think_time: 27.00 seconds.	[MsgId: MMSG-15948]
+Action.c(8): web_submit_form("Catalog.action;jsessionid=592E11B4C8A2562F495B70E8D496E2D7") started  	[MsgId: MMSG-26355]
+Action.c(8): Error -27985: There is no context for HTML-based functions. A previous function may not have used "Mode=HTML" or downloaded only non-HTML page(s), or the context has been reset (e.g., due to a GUI-based function)  	[MsgId: MERR-27985]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 2.	[MsgId: MMSG-10545]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(6): lr_think_time: 27.00 seconds.	[MsgId: MMSG-15948]
+Action.c(8): web_submit_form("Catalog.action;jsessionid=592E11B4C8A2562F495B70E8D496E2D7") started  	[MsgId: MMSG-26355]
+Action.c(8): Error -27985: There is no context for HTML-based functions. A previous function may not have used "Mode=HTML" or downloaded only non-HTML page(s), or the context has been reset (e.g., due to a GUI-based function)  	[MsgId: MERR-27985]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 3.	[MsgId: MMSG-10545]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(6): lr_think_time: 27.00 seconds.	[MsgId: MMSG-15948]
+Action.c(8): web_submit_form("Catalog.action;jsessionid=592E11B4C8A2562F495B70E8D496E2D7") started  	[MsgId: MMSG-26355]
+Action.c(8): Error -27985: There is no context for HTML-based functions. A previous function may not have used "Mode=HTML" or downloaded only non-HTML page(s), or the context has been reset (e.g., due to a GUI-based function)  	[MsgId: MERR-27985]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 4.	[MsgId: MMSG-10545]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(6): lr_think_time: 27.00 seconds.	[MsgId: MMSG-15948]
+Action.c(8): web_submit_form("Catalog.action;jsessionid=592E11B4C8A2562F495B70E8D496E2D7") started  	[MsgId: MMSG-26355]
+Action.c(8): Error -27985: There is no context for HTML-based functions. A previous function may not have used "Mode=HTML" or downloaded only non-HTML page(s), or the context has been reset (e.g., due to a GUI-based function)  	[MsgId: MERR-27985]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 3.	[MsgId: MMSG-10545]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(6): lr_think_time: 27.00 seconds.	[MsgId: MMSG-15948]
+Action.c(8): web_submit_form("Catalog.action;jsessionid=592E11B4C8A2562F495B70E8D496E2D7") started  	[MsgId: MMSG-26355]
+Action.c(8): Error -27985: There is no context for HTML-based functions. A previous function may not have used "Mode=HTML" or downloaded only non-HTML page(s), or the context has been reset (e.g., due to a GUI-based function)  	[MsgId: MERR-27985]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 4.	[MsgId: MMSG-10545]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(6): lr_think_time: 27.00 seconds.	[MsgId: MMSG-15948]
+Action.c(8): web_submit_form("Catalog.action;jsessionid=592E11B4C8A2562F495B70E8D496E2D7") started  	[MsgId: MMSG-26355]
+Action.c(8): Error -27985: There is no context for HTML-based functions. A previous function may not have used "Mode=HTML" or downloaded only non-HTML page(s), or the context has been reset (e.g., due to a GUI-based function)  	[MsgId: MERR-27985]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 5.	[MsgId: MMSG-10545]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(6): lr_think_time: 27.00 seconds.	[MsgId: MMSG-15948]
+Action.c(8): web_submit_form("Catalog.action;jsessionid=592E11B4C8A2562F495B70E8D496E2D7") started  	[MsgId: MMSG-26355]
+Action.c(8): Error -27985: There is no context for HTML-based functions. A previous function may not have used "Mode=HTML" or downloaded only non-HTML page(s), or the context has been reset (e.g., due to a GUI-based function)  	[MsgId: MERR-27985]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 4.	[MsgId: MMSG-10545]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(6): lr_think_time: 27.00 seconds.	[MsgId: MMSG-15948]
+Action.c(8): web_submit_form("Catalog.action;jsessionid=592E11B4C8A2562F495B70E8D496E2D7") started  	[MsgId: MMSG-26355]
+Action.c(8): Error -27985: There is no context for HTML-based functions. A previous function may not have used "Mode=HTML" or downloaded only non-HTML page(s), or the context has been reset (e.g., due to a GUI-based function)  	[MsgId: MERR-27985]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 5.	[MsgId: MMSG-10545]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(6): lr_think_time: 27.00 seconds.	[MsgId: MMSG-15948]
+Action.c(8): web_submit_form("Catalog.action;jsessionid=592E11B4C8A2562F495B70E8D496E2D7") started  	[MsgId: MMSG-26355]
+Action.c(8): Error -27985: There is no context for HTML-based functions. A previous function may not have used "Mode=HTML" or downloaded only non-HTML page(s), or the context has been reset (e.g., due to a GUI-based function)  	[MsgId: MERR-27985]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 6.	[MsgId: MMSG-10545]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(6): lr_think_time: 27.00 seconds.	[MsgId: MMSG-15948]
+Action.c(8): web_submit_form("Catalog.action;jsessionid=592E11B4C8A2562F495B70E8D496E2D7") started  	[MsgId: MMSG-26355]
+Action.c(8): Error -27985: There is no context for HTML-based functions. A previous function may not have used "Mode=HTML" or downloaded only non-HTML page(s), or the context has been reset (e.g., due to a GUI-based function)  	[MsgId: MERR-27985]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 5.	[MsgId: MMSG-10545]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(6): lr_think_time: 27.00 seconds.	[MsgId: MMSG-15948]
+Action.c(8): web_submit_form("Catalog.action;jsessionid=592E11B4C8A2562F495B70E8D496E2D7") started  	[MsgId: MMSG-26355]
+Action.c(8): Error -27985: There is no context for HTML-based functions. A previous function may not have used "Mode=HTML" or downloaded only non-HTML page(s), or the context has been reset (e.g., due to a GUI-based function)  	[MsgId: MERR-27985]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 6.	[MsgId: MMSG-10545]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(6): lr_think_time: 27.00 seconds.	[MsgId: MMSG-15948]
+Action.c(8): web_submit_form("Catalog.action;jsessionid=592E11B4C8A2562F495B70E8D496E2D7") started  	[MsgId: MMSG-26355]
+Action.c(8): Error -27985: There is no context for HTML-based functions. A previous function may not have used "Mode=HTML" or downloaded only non-HTML page(s), or the context has been reset (e.g., due to a GUI-based function)  	[MsgId: MERR-27985]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 7.	[MsgId: MMSG-10545]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(6): lr_think_time: 27.00 seconds.	[MsgId: MMSG-15948]
+Action.c(8): web_submit_form("Catalog.action;jsessionid=592E11B4C8A2562F495B70E8D496E2D7") started  	[MsgId: MMSG-26355]
+Action.c(8): Error -27985: There is no context for HTML-based functions. A previous function may not have used "Mode=HTML" or downloaded only non-HTML page(s), or the context has been reset (e.g., due to a GUI-based function)  	[MsgId: MERR-27985]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 6.	[MsgId: MMSG-10545]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(6): lr_think_time: 27.00 seconds.	[MsgId: MMSG-15948]
+Action.c(8): web_submit_form("Catalog.action;jsessionid=592E11B4C8A2562F495B70E8D496E2D7") started  	[MsgId: MMSG-26355]
+Action.c(8): Error -27985: There is no context for HTML-based functions. A previous function may not have used "Mode=HTML" or downloaded only non-HTML page(s), or the context has been reset (e.g., due to a GUI-based function)  	[MsgId: MERR-27985]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 7.	[MsgId: MMSG-10545]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(6): lr_think_time: 27.00 seconds.	[MsgId: MMSG-15948]
+Action.c(8): web_submit_form("Catalog.action;jsessionid=592E11B4C8A2562F495B70E8D496E2D7") started  	[MsgId: MMSG-26355]
+Action.c(8): Error -27985: There is no context for HTML-based functions. A previous function may not have used "Mode=HTML" or downloaded only non-HTML page(s), or the context has been reset (e.g., due to a GUI-based function)  	[MsgId: MERR-27985]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 8.	[MsgId: MMSG-10545]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(6): lr_think_time: 27.00 seconds.	[MsgId: MMSG-15948]
+Action.c(8): web_submit_form("Catalog.action;jsessionid=592E11B4C8A2562F495B70E8D496E2D7") started  	[MsgId: MMSG-26355]
+Action.c(8): Error -27985: There is no context for HTML-based functions. A previous function may not have used "Mode=HTML" or downloaded only non-HTML page(s), or the context has been reset (e.g., due to a GUI-based function)  	[MsgId: MERR-27985]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 7.	[MsgId: MMSG-10545]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(6): lr_think_time: 27.00 seconds.	[MsgId: MMSG-15948]
+Action.c(8): web_submit_form("Catalog.action;jsessionid=592E11B4C8A2562F495B70E8D496E2D7") started  	[MsgId: MMSG-26355]
+Action.c(8): Error -27985: There is no context for HTML-based functions. A previous function may not have used "Mode=HTML" or downloaded only non-HTML page(s), or the context has been reset (e.g., due to a GUI-based function)  	[MsgId: MERR-27985]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 8.	[MsgId: MMSG-10545]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(6): lr_think_time: 27.00 seconds.	[MsgId: MMSG-15948]
+Action.c(8): web_submit_form("Catalog.action;jsessionid=592E11B4C8A2562F495B70E8D496E2D7") started  	[MsgId: MMSG-26355]
+Action.c(8): Error -27985: There is no context for HTML-based functions. A previous function may not have used "Mode=HTML" or downloaded only non-HTML page(s), or the context has been reset (e.g., due to a GUI-based function)  	[MsgId: MERR-27985]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 9.	[MsgId: MMSG-10545]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(6): lr_think_time: 27.00 seconds.	[MsgId: MMSG-15948]
+Action.c(8): web_submit_form("Catalog.action;jsessionid=592E11B4C8A2562F495B70E8D496E2D7") started  	[MsgId: MMSG-26355]
+Action.c(8): Error -27985: There is no context for HTML-based functions. A previous function may not have used "Mode=HTML" or downloaded only non-HTML page(s), or the context has been reset (e.g., due to a GUI-based function)  	[MsgId: MERR-27985]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 8.	[MsgId: MMSG-10545]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(6): lr_think_time: 27.00 seconds.	[MsgId: MMSG-15948]
+Action.c(8): web_submit_form("Catalog.action;jsessionid=592E11B4C8A2562F495B70E8D496E2D7") started  	[MsgId: MMSG-26355]
+Action.c(8): Error -27985: There is no context for HTML-based functions. A previous function may not have used "Mode=HTML" or downloaded only non-HTML page(s), or the context has been reset (e.g., due to a GUI-based function)  	[MsgId: MERR-27985]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 9.	[MsgId: MMSG-10545]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(6): lr_think_time: 27.00 seconds.	[MsgId: MMSG-15948]
+Action.c(8): web_submit_form("Catalog.action;jsessionid=592E11B4C8A2562F495B70E8D496E2D7") started  	[MsgId: MMSG-26355]
+Action.c(8): Error -27985: There is no context for HTML-based functions. A previous function may not have used "Mode=HTML" or downloaded only non-HTML page(s), or the context has been reset (e.g., due to a GUI-based function)  	[MsgId: MERR-27985]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 9.	[MsgId: MMSG-10545]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(6): lr_think_time: 27.00 seconds.	[MsgId: MMSG-15948]
+Action.c(8): web_submit_form("Catalog.action;jsessionid=592E11B4C8A2562F495B70E8D496E2D7") started  	[MsgId: MMSG-26355]
+Action.c(8): Error -27985: There is no context for HTML-based functions. A previous function may not have used "Mode=HTML" or downloaded only non-HTML page(s), or the context has been reset (e.g., due to a GUI-based function)  	[MsgId: MERR-27985]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10.	[MsgId: MMSG-10545]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(6): lr_think_time: 27.00 seconds.	[MsgId: MMSG-15948]
+Action.c(8): web_submit_form("Catalog.action;jsessionid=592E11B4C8A2562F495B70E8D496E2D7") started  	[MsgId: MMSG-26355]
+Action.c(8): Error -27985: There is no context for HTML-based functions. A previous function may not have used "Mode=HTML" or downloaded only non-HTML page(s), or the context has been reset (e.g., due to a GUI-based function)  	[MsgId: MERR-27985]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10.	[MsgId: MMSG-10545]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(6): lr_think_time: 27.00 seconds.	[MsgId: MMSG-15948]
+Action.c(8): web_submit_form("Catalog.action;jsessionid=592E11B4C8A2562F495B70E8D496E2D7") started  	[MsgId: MMSG-26355]
+Action.c(8): Error -27985: There is no context for HTML-based functions. A previous function may not have used "Mode=HTML" or downloaded only non-HTML page(s), or the context has been reset (e.g., due to a GUI-based function)  	[MsgId: MERR-27985]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 11.	[MsgId: MMSG-10545]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(6): lr_think_time: 27.00 seconds.	[MsgId: MMSG-15948]
+Action.c(8): web_submit_form("Catalog.action;jsessionid=592E11B4C8A2562F495B70E8D496E2D7") started  	[MsgId: MMSG-26355]
+Action.c(8): Error -27985: There is no context for HTML-based functions. A previous function may not have used "Mode=HTML" or downloaded only non-HTML page(s), or the context has been reset (e.g., due to a GUI-based function)  	[MsgId: MERR-27985]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
